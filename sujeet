@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Page Title</title>
+    <!-- Additional meta tags, stylesheets, or scripts can be added here -->
+</head>
+<body>
+
+    <header>
+        <h1>Your Page Heading</h1>
+        <!-- Add any additional header content here -->
+    </header>
+
+    <nav>
+        <!-- Navigation menu or links can be added here -->
+    </nav>
+
+    <main>
+        <section>
+            <h2>Section Heading</h2>
+            <p>This is a simple HTML page.</p>
+            <!-- Add your content here -->
+        </section>
+
+        <!-- Add more sections as needed -->
+
+    </main>
+
+    <footer>
+        <!-- Footer content, such as copyright information or links, can be added here -->
+    </footer>
+
+    <!-- Additional scripts or other elements can be added before the closing </body> tag -->
+
+</body>
+</html>
